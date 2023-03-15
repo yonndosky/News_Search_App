@@ -39,17 +39,17 @@ samples, guidance on mobile development, and a full API reference.
     </figure>
 </div>
 <br>
-<div style="display: flex;flex-direction=row;" >
-    <figure>
+<div style="display: flex;flex-direction=row; justify-content: space-between;" >
+    <div>
         <img src="./pic/page3.jpg" width="198" height="430" alt="圖三"/>
         <br />
-        <figcaption>圖三</figcaption>
-    </figure>
-    <figure>
+        <div>圖三</div>
+    </div>
+    <div>
         <img src="./pic/page4.jpg" width="198" height="430" alt="圖四"/>
         <br />
-        <figcaption>圖四</figcaption>
-    </figure>
+        <div>圖四</div>
+    </div>
 </div>
 
 ## >具體技術
