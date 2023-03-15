@@ -26,7 +26,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## >應用程式頁面
 
-<div style="display: flex;flex-direction=row;" >
+<div style="display=flex;flex-direction=row; justify-content= space-between;" >
     <figure>
         <img src="./pic/page1.jpg" width="198" height="430" alt="圖一"/>
         <br />
