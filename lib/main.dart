@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:photo_search_app/search_factory.dart';
+import 'package:news_search_app/search_factory.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 void main(List<String> args) => runApp(const MyApp());
