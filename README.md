@@ -26,26 +26,26 @@ samples, guidance on mobile development, and a full API reference.
 
 ## >應用程式頁面
 
-<div style="display: flex;flex-direction=row;" >
-    <figure>
+<div style="display:flex;flex-direction:row;justify-content= space-between;" >
+    <figure style="display: block">
         <img src="./pic/page1.jpg" width="198" height="430" alt="圖一"/>
         <br />
         <figcaption>圖一</figcaption>
     </figure>
-    <figure>
+    <figure style="display: block">
         <img src="./pic/page2.jpg" width="198" height="430" alt="圖二"/>
         <br />
         <figcaption>圖二</figcaption>
     </figure>
 </div>
 <br>
-<div style="display: flex;flex-direction=row; justify-content: space-between;" >
-    <div>
+<div style="display:flex;flex-direction:row;justify-content= space-between;" >
+    <figure style="display: block">
         <img src="./pic/page3.jpg" width="198" height="430" alt="圖三"/>
         <br />
-        <div>圖三</div>
-    </div>
-    <div>
+        <figcaption>圖三</figcaption>
+    </figure>
+    <figure style="display: block">
         <img src="./pic/page4.jpg" width="198" height="430" alt="圖四"/>
         <br />
         <div>圖四</div>
